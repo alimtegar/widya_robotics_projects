@@ -1,0 +1,26 @@
+<annotation>
+	<folder>baf1ee48-314c-46ba-8393-c646821e7d5a</folder>
+	<filename>19583_140461.jpg</filename>
+	<path>/Users/admin/Documents/Projects/_ML/widya_robotics_projects/week_01_day_01/baf1ee48-314c-46ba-8393-c646821e7d5a/19583_140461.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>15</ymin>
+			<xmax>403</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

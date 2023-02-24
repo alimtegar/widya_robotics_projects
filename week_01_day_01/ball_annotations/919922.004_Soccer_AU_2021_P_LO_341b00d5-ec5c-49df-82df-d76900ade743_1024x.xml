@@ -1,0 +1,26 @@
+<annotation>
+	<folder>baf1ee48-314c-46ba-8393-c646821e7d5a</folder>
+	<filename>919922.004_Soccer_AU_2021_P_LO_341b00d5-ec5c-49df-82df-d76900ade743_1024x.png</filename>
+	<path>/Users/admin/Documents/Projects/_ML/widya_robotics_projects/week_01_day_01/baf1ee48-314c-46ba-8393-c646821e7d5a/919922.004_Soccer_AU_2021_P_LO_341b00d5-ec5c-49df-82df-d76900ade743_1024x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>136</ymin>
+			<xmax>886</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+</annotation>
