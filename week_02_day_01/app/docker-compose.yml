@@ -1,6 +1,6 @@
 services:
   fastapi:
     container_name: fastapi
-    image: alimtegar/fastapi:1.3
+    image: alimtegar/fastapi:2.0
     ports:
       - 8000:8000
