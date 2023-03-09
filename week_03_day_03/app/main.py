@@ -8,7 +8,7 @@ app = FastAPI()
 
 # Configs
 CHECKPOINT_PATH = './encoders/default'
-INPUT_SIZE = 224
+INPUT_SIZE = 336
 MEAN = (0.5, 0.5, 0.5)
 STD = (0.5, 0.5, 0.5)
 
