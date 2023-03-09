@@ -5,8 +5,15 @@
 4. Run Docker Compose: `$ docker-compose up`
 5. Go to [localhost:8000/docs](http://localhost:8000/docs) to start trying the API!
 
+# Screenshots
+![Screenshot 1](https://i.ibb.co/7QLV7vC/Screenshot-2023-03-09-at-15-42-37.png)
+![Screenshot 2](https://i.ibb.co/wC8CZDc/Screenshot-2023-03-09-at-15-43-46.png)
+![Screenshot 3](https://i.ibb.co/mJXmB78/Screenshot-2023-03-09-at-15-44-57.png)
+
+
 # API
 ## /segment-nuclei
+Segments the nuclei in an image.
 - Method: POST
 - Request Parameters:
   - **file**: The image file of nuclei.
