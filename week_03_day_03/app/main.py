@@ -32,7 +32,7 @@ async def create_register(label: str, file: UploadFile = File(...)):
   embedding = model(image)
   register_embedding(label, embedding.detach().squeeze().numpy())
   
-  return {'Message': 'Successfully registered.'}
+  return {'message': f"Label '{label}' successfully registered."}
 
 @app.post('/recognize')
 async def create_recognize(file: UploadFile = File(...), threshold: float=0.5):
