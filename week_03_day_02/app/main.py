@@ -16,7 +16,7 @@ DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
 MEAN = [0.5, 0.5, 0.5]
 STD = [0.5, 0.5, 0.5]
 LEARNING_RATE = 1e-3
-CHECKPOINT_PATH = './model/checkpoint'
+CHECKPOINT_PATH = './models/checkpoint'
 
 model = UNet().to(DEVICE)
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
