@@ -7,8 +7,8 @@
 
 # Screenshots
 ![Screenshot 1](https://i.ibb.co/7QLV7vC/Screenshot-2023-03-09-at-15-42-37.png)
-![Screenshot 2](https://i.ibb.co/wC8CZDc/Screenshot-2023-03-09-at-15-43-46.png)
-![Screenshot 3](https://i.ibb.co/mJXmB78/Screenshot-2023-03-09-at-15-44-57.png)
+![Screenshot 2](https://i.ibb.co/hdz1pQ0/Screenshot-2023-03-09-at-15-43-46.png)
+![Screenshot 3](https://i.ibb.co/0nS1wFx/Screenshot-2023-03-09-at-15-44-57.png)
 
 
 # API
