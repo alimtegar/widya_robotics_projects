@@ -1,5 +1,5 @@
 # Setup
-1. Download the **checkpoint** file [here](#).
+1. Download the **checkpoint** file [here](https://drive.google.com/file/d/1-4OhgH7N-AQBFHa05HRq3MD7CG42ojAm/view?usp=sharing).
 2. Move the **checkpoint** file to the **models** folder.
 3. Build the Docker image: `$ docker built -t aliimtegar/nuclei-segmentation:1.0 .`
 4. Run Docker Compose: `$ docker-compose up`
