@@ -1,5 +1,4 @@
 import io
-import numpy as np
 from fastapi import FastAPI, File, UploadFile
 from PIL import Image
 
