@@ -1,0 +1,6 @@
+services:
+  fruit-recognition:
+    container_name: fruit-recognition
+    image: alimtegar/fruit-recognition:1.0
+    ports:
+      - 8000:8000
