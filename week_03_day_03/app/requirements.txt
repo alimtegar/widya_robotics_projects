@@ -4,5 +4,3 @@ python-multipart
 numpy
 Pillow
 quaterion_models
-torch
-torchvision
