@@ -2,6 +2,5 @@ fastapi
 uvicorn[standard]
 python-multipart
 numpy
-torch
 albumentations
 scikit-image
