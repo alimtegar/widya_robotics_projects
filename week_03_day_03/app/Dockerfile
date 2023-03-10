@@ -1,4 +1,4 @@
-FROM python
+FROM bitnami/pytorch
 
 ENV PORT=8000
 
@@ -6,7 +6,16 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pip install -r requirements.txt
+# Login to user 'root'
+USER root
+
+# Create 'database.json'
+RUN touch database.json
+
+# Give permission to write 'database.json'
+RUN chmod +w database.json 
+
+RUN pip install -r requirements.txt --default-timeout=3600
 
 EXPOSE $PORT
 
